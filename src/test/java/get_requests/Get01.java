@@ -12,7 +12,7 @@ public class Get01 {
     public void testing(){
 
         //set url
-        String url ="https://restful-booker.herokuapp.com/booking/10";
+        String url ="https://restful-booker.herokuapp.com/bookin/10";
 
         //
 
